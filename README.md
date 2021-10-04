@@ -1,4 +1,4 @@
-![Header](https://github.com/Baktybek0312/Baktybek0312/blob/master/assets/def.png)
+![Header](https://github.com/Baktybek0312/Baktybek0312/blob/master/assets/reg.png)
 ## Languages and Tools
 
 
@@ -11,8 +11,8 @@
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=darkred)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=ffff00)
 
- Follow Me !
 
+About cooperation, please contact telegram and instagram
 
 
 [![Instagram](https://img.shields.io/badge/-Instagram-090909??style=plastic&logo=instagram)](https://www.instagram.com/toktobekov_11/)
