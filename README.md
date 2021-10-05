@@ -10,7 +10,7 @@
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=darkred)
 ![Ubuntu](https://img.shields.io/badge/-ubuntu-090909?style=for-the-badge&logo=ubuntu&logoColor=ffff00)
-![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux)
 
 
 About cooperation, please contact telegram and instagram
