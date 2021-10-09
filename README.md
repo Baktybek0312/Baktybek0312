@@ -4,8 +4,12 @@
 
 
 ![Python](https://img.shields.io/badge/-Python-090909?style=for-the-badge&logo=python&logoColor=blue)
+![Django](https://img.shields.io/badge/-Django-090909?style=flat-square&logo=Django)
+![Django Rest Framework](https://img.shields.io/badge/DRF-090909?style=flat-square&logo=Django&logoColor=red)
 ![SQL](https://img.shields.io/badge/-PostgreSQL-090909?style=for-the-badge&logo=postgresql)
 ![GH](https://img.shields.io/badge/-GitHub-090909?style=for-the-badge&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-090909?style=flat-square&logo=gitlab)
+![Docker](https://img.shields.io/badge/-Docker-090909?style=flat-square&logo=docker&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=Javascript)
 ![HTML](https://img.shields.io/badge/-HTML-090909?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-090909?style=for-the-badge&logo=css3&logoColor=darkred)
@@ -25,9 +29,9 @@ About cooperation, please contact telegram and instagram
 
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baktybek0312&layout=compact&theme=dracula" width="45.5%" height="14%"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Baktybek0312&layout=compact&theme=dracula" width="55%" height="14%"/>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Baktybek0312&show_icons=true&theme=dracula" width="49.5%"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Baktybek0312&show_icons=true&theme=dracula" width="55%"/>
 
 
 
