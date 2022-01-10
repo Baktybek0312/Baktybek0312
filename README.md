@@ -1,4 +1,4 @@
-![Header](https://github.com/Baktybek0312/Baktybek0312/blob/master/assets/reg.png)
+![Header](https://github.com/Baktybek0312/Baktybek0312/blob/master/assets/psp.png)
 ## Languages and Tools
 
 
